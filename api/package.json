@@ -1,0 +1,11 @@
+{
+  "name": "@camp/api",
+  "version": "1.0.0",
+  "description": "Modulo de Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Velarde",
+  "license": "MIT"
+}
